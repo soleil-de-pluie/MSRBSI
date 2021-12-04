@@ -2,7 +2,9 @@
 Multi_scale_Sparse_Representation_Based_Shadow_Inpainting_for_Retinal_OCT_Images
 
 ## Introduction
-see [Paper](https://github.com/soleil-de-pluie/MSRBSI/raw/main/Paper/Multi_scale_Sparse_Representation_Based_Shadow_Inpainting_for_Retinal_OCT_Images.pdf).
+Framework:
+![](https://github.com/soleil-de-pluie/MSRBSI/raw/main/Framework/Schematic.png)
+More details see [Paper](https://github.com/soleil-de-pluie/MSRBSI/raw/main/Paper/Multi_scale_Sparse_Representation_Based_Shadow_Inpainting_for_Retinal_OCT_Images.pdf).
 
 ## Code
 Code will be released soon.
@@ -11,6 +13,7 @@ Code will be released soon.
 ### Dataset
 >1. Public dataset: Download [OCTA-500](https://ieee-dataport.org/open-access/octa-500)
 >2. Collected dataset: Download [our data](http://www.yuyeling.com/project/mgu-net/)
+
 
 ## Acknowledgements
 
