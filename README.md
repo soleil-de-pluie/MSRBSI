@@ -15,4 +15,4 @@ Code will be released soon.
 ## Acknowledgements
 
 ## Contact
-If you have any questions, please contact [tangyaoqi17@sjtu.edu.cn]<tangyaoqi17@sjtu.edu.cn>
+If you have any questions, please contact <tangyaoqi17@sjtu.edu.cn>
